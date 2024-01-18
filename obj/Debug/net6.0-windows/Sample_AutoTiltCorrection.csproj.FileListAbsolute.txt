@@ -1,0 +1,16 @@
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.Form1.resources
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.csproj.GenerateResource.cache
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.AssemblyInfoInputs.cache
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.AssemblyInfo.cs
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.csproj.CoreCompileInputs.cache
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\bin\Debug\net6.0-windows\Sample_AutoTiltCorrection.exe
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\bin\Debug\net6.0-windows\Sample_AutoTiltCorrection.deps.json
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\bin\Debug\net6.0-windows\Sample_AutoTiltCorrection.runtimeconfig.json
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\bin\Debug\net6.0-windows\Sample_AutoTiltCorrection.dll
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\bin\Debug\net6.0-windows\Sample_AutoTiltCorrection.pdb
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.dll
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\refint\Sample_AutoTiltCorrection.dll
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.pdb
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\Sample_AutoTiltCorrection.genruntimeconfig.cache
+C:\Users\KW0158W10\Desktop\Sample AutoTilfCorrection\obj\Debug\net6.0-windows\ref\Sample_AutoTiltCorrection.dll

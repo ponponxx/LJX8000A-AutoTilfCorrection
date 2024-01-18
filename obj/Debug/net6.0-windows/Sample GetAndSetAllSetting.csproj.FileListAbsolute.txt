@@ -1,0 +1,16 @@
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample_GetAndSetAllSetting.Form1.resources
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample GetAndSetAllSetting.csproj.GenerateResource.cache
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample GetAndSetAllSetting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample GetAndSetAllSetting.AssemblyInfoInputs.cache
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample GetAndSetAllSetting.AssemblyInfo.cs
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample GetAndSetAllSetting.csproj.CoreCompileInputs.cache
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\bin\Debug\net6.0-windows\Sample GetAndSetAllSetting.exe
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\bin\Debug\net6.0-windows\Sample GetAndSetAllSetting.deps.json
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\bin\Debug\net6.0-windows\Sample GetAndSetAllSetting.runtimeconfig.json
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\bin\Debug\net6.0-windows\Sample GetAndSetAllSetting.dll
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\bin\Debug\net6.0-windows\Sample GetAndSetAllSetting.pdb
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample GetAndSetAllSetting.dll
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\refint\Sample GetAndSetAllSetting.dll
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample GetAndSetAllSetting.pdb
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\Sample GetAndSetAllSetting.genruntimeconfig.cache
+C:\Users\KW0158W10\source\repos\Sample GetAndSetAllSetting\obj\Debug\net6.0-windows\ref\Sample GetAndSetAllSetting.dll
